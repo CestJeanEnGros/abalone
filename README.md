@@ -2,7 +2,7 @@
 
 Here is an intelligent agent for the board game Abalone (rules [here](https://www.youtube.com/watch?v=UUCe1ilichA)). I'm using an alpha-beta implementation enhanced with a set of weighted heuristics. Despite this rather simple implementation, I managed to achieve the third place in the intern competition of the course.
 
-There is 2 agent available :
+There is 2 agents available :
 * random_player.py : a random player.
 * my_player : my implementation of an inteligent agent.
 
